@@ -10,7 +10,7 @@ USERS: https://github.com/Nupur-learns/Project1/blob/main/users.csv
 
 REPOSITORIES: https://github.com/Nupur-learns/Project1/blob/main/repositories.csv
 
-response = requests.get(<above-url>, headers=HEADERS)
+
 
    <p align="left">
 <ul>

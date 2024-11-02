@@ -17,17 +17,14 @@ response = requests.get(<above-url>, headers=HEADERS)
    <p align="left">
 <ul>
 
-### 2. Some facts discovered from the analysis:
-
-  <li>   The top 5 users in Moscow with the highest number of followers are <a href="https://github.com/Nupur-learns/Project1/blob/main/users.csv">
-              maxlapshin,veged,alexeyr,alec-c4,alno    </a>
+### 2. Interesting fact from the analysis:
 
 </li>
-          <li>   The majority of these developers work at YANDEX
-</li>
-          <li>    A correlation coefficient of 0.054 means there is a very weak positive correlation between the number of followers and the number of public repositories among users in Moscow. Also, the correlation for additional followers a user gets per additional public repository is 0.221 showing some weak positive correlation. Hence, though less, having an additional public repository does give some hopes for having additional followers.
+          <li>   Correlation coefficient of 0.054 between the number of followers and the number of public repositories among users in Moscow and 0.221 for additional followers a user gets per additional public repository shows weak positive correlation, contrary to common belief.
 </li>
 </ul>
 </p>
-      
 
+### 3. An Actinable recommendation to developers based on analysis:
+</li>
+          <li>  Having an additional public repository is less likely to translate into a big spike in additional followers as the correlation coefficient is low (0.221), and hence other aspects should also be focused to increase the follower count.

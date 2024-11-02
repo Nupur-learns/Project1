@@ -4,7 +4,7 @@
 
 I scraped the data from the Github site using the github API with a personal access token in Visual Studio Code. Please find attached the respective files.
 
-Scraping code:
+Scraping code: https://github.com/Nupur-learns/Project1/blob/main/gitscrap1.py
       
 USERS: https://github.com/Nupur-learns/Project1/blob/main/users.csv
 

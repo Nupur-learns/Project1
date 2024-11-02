@@ -16,3 +16,18 @@ response = requests.get(<above-url>, headers=HEADERS)
 
    <p align="left">
 <ul>
+
+### 2. Some facts discovered from the analysis:
+
+  <li>   Top 3 public repo contributors are working for <a href="">
+              Apple, MMTechSoft & Stealth Startup   </a>
+
+</li>
+          <li>    They had most of the contributions in Javascript, Java, Scala and HTML in this order
+</li>
+          <li>    Github Users from Hyderabad working in Google, did not have a single repository published
+</li>
+</ul>
+</p>
+      
+![Logo](Project-1-Findings.jpg)

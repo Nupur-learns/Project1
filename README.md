@@ -1,6 +1,6 @@
 ## IITM Tools in Data Science Project 1 - Moscow 50
 
-### 1. Scraping mechanism <a href="">(VSCode)</a>
+### 1. Scraping mechanism <a href="https://github.com/Nupur-learns/Project1/blob/main/gitscrap1.py">(VSCode)</a>
 
 I scraped the data from the Github site using the github API with a personal access token <br>
              GITHUB_TOKEN =  'personal-token' <br>

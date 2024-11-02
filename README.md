@@ -2,11 +2,9 @@
 
 ### 1. Scraping mechanism <a href="https://github.com/Nupur-learns/Project1/blob/main/gitscrap1.py">(VSCode)</a>
 
-I scraped the data from the Github site using the github API with a personal access token <br>
-             GITHUB_TOKEN =  'personal-token' <br>
-             HEADERS = {'Authorization': f"token {GITHUB_TOKEN}", <br>
-                        "Accept": "application/vnd.github.v3+json" <br>
-             } <br>
+I scraped the data from the Github site using the github API with a personal access token in Visual Studio Code. Please find attached the respective files.
+
+Scraping code:
       
 USERS: https://github.com/Nupur-learns/Project1/blob/main/users.csv
 

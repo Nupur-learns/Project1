@@ -10,7 +10,7 @@ I scraped the data from the Github site using the github API with a personal acc
       
 USERS: https://github.com/Nupur-learns/Project1/blob/main/users.csv
 
-REPOSITORIES: 
+REPOSITORIES: repositories.csv
 
 response = requests.get(<above-url>, headers=HEADERS)
 

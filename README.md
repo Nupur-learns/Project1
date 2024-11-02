@@ -8,7 +8,7 @@ I scraped the data from the Github site using the github API with a personal acc
                         "Accept": "application/vnd.github.v3+json" <br>
              } <br>
       
-USERS: 
+USERS: https://github.com/Nupur-learns/Project1/blob/main/users.csv
 
 REPOSITORIES: 
 

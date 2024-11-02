@@ -12,9 +12,6 @@ REPOSITORIES: https://github.com/Nupur-learns/Project1/blob/main/repositories.cs
 
 
 
-   <p align="left">
-<ul>
-
 ### 2. Interesting fact from the analysis:
 
 </li>

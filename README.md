@@ -23,11 +23,11 @@ response = requests.get(<above-url>, headers=HEADERS)
               maxlapshin,veged,alexeyr,alec-c4,alno    </a>
 
 </li>
-          <li>    They had most of the contributions in Javascript, Java, Scala and HTML in this order
+          <li>   The majority of these developers work at YANDEX
 </li>
-          <li>    Github Users from Hyderabad working in Google, did not have a single repository published
+          <li>    A correlation coefficient of 0.054 means there is a very weak positive correlation between the number of followers and the number of public repositories among users in Moscow. Also, the correlation for additional followers a user gets per additional public repository is 0.221 showing some weak positive correlation. Hence, though less, having an additional public repository does give some hopes for having additional followers.
 </li>
 </ul>
 </p>
       
-![Logo](Project-1-Findings.jpg)
+
